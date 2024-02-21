@@ -1,6 +1,4 @@
-<br />
-  <h3 align="center">Virtual library with Vagrant</h3>
-</div>
+<h3 align="center">Virtual library with Vagrant</h3>
 
 <summary>Table of Contents</summary>
   <ol>
