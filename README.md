@@ -4,8 +4,6 @@
 
 # MacOS
 
-<code>
-$ git clone 
+<code>$ git clone 
 $ brew install vagrant
-$ vagrant up
-<code>
+$ vagrant up<code>
